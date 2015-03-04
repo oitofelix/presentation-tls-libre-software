@@ -10,5 +10,5 @@ available only in Portuguese.
 
 - **PDF:** [TLS: Libre Software.pdf]({{site.baseurl}}/TLS: Libre Software.pdf)
 - **Source:** [https://github.com/oitofelix/presentation-tls-libre-software]()
-- **License:** [CC BY-SA 4.0](https://raw.githubusercontent.com/oitofelix/presentation-tls-libre-software/master/COPYING)
+- **License:** [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 - **Author:** [Bruno Félix Rezende Ribeiro (oitofelix)](http://oitofelix.github.io/)
