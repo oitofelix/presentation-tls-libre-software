@@ -1,6 +1,8 @@
 ---
 title: oitofelix - TLS&#58; Libre Software presentation
-description: The 'TLS&#58; Libre Software' presentation argues in favor of free software as a viable market strategy for companies.
+description: >
+  The 'TLS&#58; Libre Software' presentation argues in favor of free
+  software as a viable market strategy for companies.
 tags: presentation, free software, market, companies
 license: CC BY-SA 4.0
 layout: oitofelix-homepage
